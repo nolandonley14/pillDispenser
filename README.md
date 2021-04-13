@@ -1,4 +1,4 @@
-# senior_design_pd
+# Pill Dispenser Mobile App
 
 Our cross-platform application for senior design
 
