@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407163851012",
+    "project_id": "seniordesignpd",
+    "storage_bucket": "seniordesignpd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407163851012:android:4aa5fd6fe26a5dbe8e8051",
+        "android_client_info": {
+          "package_name": "com.nolandonley.seniorDesignPD"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407163851012-qsm7715sdhs6tfsqufsp9hk2ep27cpol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nolandonley.seniorDesignPD",
+            "certificate_hash": "84339e7a72cd8729d24eaa2e1616d33557272657"
+          }
+        },
+        {
+          "client_id": "407163851012-adp7q8pncc1jbi2op3ulgcnr98lucgqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbKLrd9Dfzb9qnyRQTH8tmGwbfcG_hU28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407163851012-adp7q8pncc1jbi2op3ulgcnr98lucgqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
